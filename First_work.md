@@ -7,4 +7,4 @@ This part is done in visual studio code.
 
 This is the second edit.
 
-Nice
+Nice.
